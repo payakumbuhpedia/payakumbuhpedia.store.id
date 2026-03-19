@@ -101,7 +101,7 @@ cursor:pointer;
 button:active{transform:scale(.97)}
 
 </style></head><body><div class="container"><div class="header">
-<div class="brand">PayakumbuhPedia</div>
+<div class="brand"></div>
 <div class="subtitle">SMM Panel Indonesia • Boosting Profesional</div><div class="badge"><span>🟢 Online 24 Jam</span></div>
 </div><div class="stats">
 <div class="stat">👤 10K+ User</div>
