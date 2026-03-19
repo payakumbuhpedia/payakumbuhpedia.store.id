@@ -1,0 +1,1 @@
+# payakumbuhpedia.store.id
