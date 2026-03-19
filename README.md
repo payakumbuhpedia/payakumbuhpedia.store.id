@@ -102,8 +102,7 @@ button:active{transform:scale(.97)}
 
 </style></head><body><div class="container"><div class="header">
 <div class="brand">PayakumbuhPedia</div>
-<div class="subtitle">SMM Panel Indonesia • Boosting Profesional</div>
-<a class="link" href="#">@payakumbuhpedia.store.id</a><div class="badge"><span>🟢 Online 24 Jam</span></div>
+<div class="subtitle">SMM Panel Indonesia • Boosting Profesional</div><div class="badge"><span>🟢 Online 24 Jam</span></div>
 </div><div class="stats">
 <div class="stat">👤 10K+ User</div>
 <div class="stat">📦 50K+ Order</div>
@@ -124,11 +123,9 @@ button:active{transform:scale(.97)}
 <option>10000</option>
 </select><button onclick="order()">Kirim Order</button>
 
-</div><div class="card">
-<div class="title">Cek Status Order</div>
-<input type="text" placeholder="Masukkan ID Order">
-<button>Cek Status</button>
-</div></div><script>
+</div></div><footer style="text-align:center;margin-top:20px;font-size:11px;opacity:.6;">
+© 2026 PayakumbuhPedia • Hak Cipta Dilindungi Undang-Undang
+</footer><script>
 function order(){
 let layanan=document.getElementById('layanan').value;
 let target=document.getElementById('target').value;
