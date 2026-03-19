@@ -1,4 +1,4 @@
-<!DOCTYPE html><html lang="id">
+
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -120,4 +120,3 @@ window.open(`https://wa.me/6283143490913?text=${pesan}`)
 window.open(`https://wa.me/6283143490913?text=Order ${l} ${t} ${j}`)
 }
 </script></body>
-</html>
